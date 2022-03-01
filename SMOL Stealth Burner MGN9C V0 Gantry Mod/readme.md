@@ -9,7 +9,7 @@ Note Green: The holes on the dragon adapter are not for magnets, rather clerance
 ![](https://github.com/flyespresso/antpower/blob/main/SMOL%20Stealth%20Burner%20MGN9C%20V0%20Gantry%20Mod/Support%20Needed.png?raw=true)
 Note Red: Use supports for best printibility, otherwise it's easy to trim/make it work with minor post processing. Ideally this ould be avoided but as it stands this helps constrain/keep rigidty of the mount and decreasing the ability for it bend/twist at that axis.
 
-##Update Rev 1
+## Update Rev 1
 ![](UpdateRev1.png)
 
 Blue: Changes to geometry that don't impact usage just post printing usability of putting in heat inserts. Should make it so no post processing is needed
