@@ -11,8 +11,11 @@ Note Red: Use supports for best printibility, otherwise it's easy to trim/make i
 
 ##Update Rev 1
 ![](UpdateRev1.png)
+
 Blue: Changes to geometry that don't impact usage just post printing usability of putting in heat inserts. Should make it so no post processing is needed
+
 Green: Dragon Adapter now has geometry to not impact belt path. Shouldn't be an issue in prints but makes it cleaner/straighter.
+
 Pink: Increased thickness to rear of printer to match full extent of carriage block. Adjusted hole sizes to not require threading through practice (and causing issues along layer lines)
 
 
