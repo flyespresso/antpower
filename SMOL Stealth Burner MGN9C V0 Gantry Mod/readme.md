@@ -2,21 +2,24 @@
 
 This is a carriage mod that allows use of the SMOL Stealth Burner System on a traditional V0 Gantry with top mounted MGN9C. Also includes moded Dragon Adaptor to account for screws on the carriage--this is also needed for his stock MGN7 carraige *(it's a bug/missing)*
 
-![](https://github.com/flyespresso/antpower/blob/main/SMOL%20Stealth%20Burner%20MGN9C%20V0%20Gantry%20Mod/Main%20Image.png?raw=true)
+![](Main.png)
 
-**Note Green:** The holes on the dragon adapter are not for magnets, rather clerance for the BHCS used to tighten belts with makerbeam style M3 threaded bar (standard in Voron builds)
+Use two m3x40mm SHCS as the screws to assemble all 3 pieces (Shroud, Adapter, Carriage). Do not use anything longer, test screw length before mounting to carriage with all 3, **you do not want screws too long as it'll push against carriage.** Otherwise, two heat set inserts can be inserted into the rear to allow maker beam to be tighter against the belts. Included are both a carriage for MGN9C, and a modified dragon mount that works for both MGN9C and MGN7.
 
-![](https://github.com/flyespresso/antpower/blob/main/SMOL%20Stealth%20Burner%20MGN9C%20V0%20Gantry%20Mod/Support%20Needed.png?raw=true)
-**Note Red:** Use supports for best printibility, otherwise it's easy to trim/make it work with minor post processing. Ideally this ould be avoided but as it stands this helps constrain/keep rigidty of the mount and decreasing the ability for it bend/twist at that axis.
 
-## Update Rev 1
-![](UpdateRev1.png)
+## Update Rev 2
+![](UpdateRev2.png)
 
-**Blue:** Changes to geometry that don't impact usage just post printing usability of putting in heat inserts. Should make it so no post processing is needed
+**Blue:** Modified geometry and removed need for printed supports, wasn't effective and changed method.
 
-**Green:** Dragon Adapter now has geometry to not impact belt path. Shouldn't be an issue in prints but makes it cleaner/straighter.
+**Green:** These play double duty and both grip on to the carriage slightly, keep it centered perfectly so no tilt, avoids twists/shifts while screwing in carriage screws... and more! :P
 
-**Pink:** Increased thickness to rear of printer to match full extent of carriage block. Adjusted hole sizes to not require threading through practice (and causing issues along layer lines)
+**Pink:** Adjusted down space needed to be narrower, no need for additional material and Omron microswitch still fits perfectly.
+
+**Red:** Changed geometry to add a bit more material to strength that portion and make it a less clear fracture point (similar to green feature)
+
+
+## Highly recommend printing the updated carriage vs prior revisions. It's only 44 minutes to print and your QOL will improve ! :D
 
 
 [Find more on Maverick's SMOL Stealth Burner Here](https://github.com/PrintersForAnts/Crucible/tree/main/Smol%20Stealth%20Burner "Find more on Maverick's SMOL Stealth Burner Here")
